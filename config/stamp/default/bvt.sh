@@ -17,9 +17,9 @@ ENVIRONMENT=bvt
 
 # the site certificate files (.crt & .key) have to be named after the BASE_URL value
 BASE_URL=cloudswyft.com
-LMS_URL=academy.$BASE_URL
-CMS_URL=cloudstudio.$BASE_URL
-PREVIEW_URL=cloudpreview.$BASE_URL
+LMS_URL=iverson.$BASE_URL
+CMS_URL=iversonstudio.$BASE_URL
+PREVIEW_URL=iversonpreview.$BASE_URL
 
 # deployment configuration
 # URL-building will be replaced by the use of LMS_URL | CMS_URL (above)

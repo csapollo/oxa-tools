@@ -15,19 +15,19 @@
             "value": "Standard_D1_v2"
         },
         "mongoVmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_D1_v2"
         },
         "mysqlVmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_D1_v2"
         },
         "frontendVmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_D1_v2"
         },
         "adminUsername": {
             "value": "lexoxaadmin"
         },
         "adminPublicKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC6ByU+BCm54nGYwQcUtUXjDO8cmXzoK5uV1rekaxt51rKG70V7Z02tRxHa5UuNdougjHkkyJRMa8Ie0NewXuwiFVsHQBBcX4YLjxc7k0RunrdUfXAzDSB5K+1TfVA44PJD28IkhbLnK9svjGnLu/JZALJnY6T4YljtT4llVpgkKRA/JdsNwO4tKv9IO9eDP/2TdXr90fXNwlKXYJ2RVk1ARlUjNQO5d9aGl19/H+PgLucj9mS3YsTNFmMpRQdtRXtw98cP1RNWCWGwDdtjltx8BoU+vtxj5anXFe9Kp+s4zoGoCDaweZfT3egX0hi0r/9sUsfCtHiowBBMeix97VmtktgwAqJIvoer7Hw5rpESkuiYRUwVq9duAoJQ5hlWOsNT0vxpIcGus5QfOC7quwMZPlu/US2A9PX91X9U8nseGDQT6v95k9DLrzcK5rFfvOqfYdYi7rbjFLtgYEB4SG3IKY/TtlYW7NihrEAurUXwsbhL7oh7Wahr8PDbkrU+tQpjK4swHNE4OJQPSN7b7Z3dsK8DMqI+p7r6oD+XdV9E/mvWUNnjKNC3Gc0X6qJxp70KCk9kvv1PreWbq4/Iu2nVGhFyMizTEdlSGDOqRW3qMYLqBeVEsPIwTFnebJXvqaMnvgqk+Mje6sGlvl6YDa28hiblokt8ESgN3+kD7EQqMw== user@CS_ACSON_A"
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDK54cgqxs5hmvm1ySz1Wh1C84Wgj56uAkpYKnE5q0iOTG74lA01Tsj2QJU9naTKMMwB3dQs+NvY1HORBGMxwjh/kHoTsHmQQPDc95fJRfXoqHqOfQOxvWI9KR0r3yaA5I2oNhCzkYInJ0lzxQmKzQIbiM3QG6u3SlBZZohavHAGKc7BXYjdijsYFOZIrlPs+xU50cWxkjkKcX7iyneB6DTGzCsLNKwtx2E93rhEt7S+Ec0PNLgkkw7py/Fjqbcn9DLY3+g0i86quapG+2oyC8A7K4gQ7vgE6ebUWfTN+yja2riAw/zVyaGwCtuJ4aOfnA0IjCmDRowWVMIKMVzoWE7o9MpJkZH+ktKPMbskCAAL7ZHzHvCnULlCT/C3CTMchNOnQK9p2kQUP+SzRaSFPeCW/QLKLEoW3hXs2vTCNSQyrK41lrHT+MDsazo79f7qGvrive3nEI2k9cblYN333ThkYwAUPaOXoz/qdsUYmVxCO8iBoyaJnV45udpXbrirXuuUomL+BxEoGW78YQCjgbpR2c901QUXCmZnLqUep/JGdhERP4PhTYGn6Plk4120qLU0YySz0q8ncewbKqY5JohgphTKsW52CkYiMs7ida28kc6pxQ4U8KEE/RaN8ZTeFSQNN14MnXeAhHrzRQcXgo9pAmkuL6zxat8C44Kpe04sQ== Kenneth@Cloudswyft_L2"
         },
         "mongoServerAdminUserName": {
             "value": "oxamongoadmin"
@@ -75,7 +75,7 @@
             "value": 1
         },
         "oxaToolsGithubAccountName": {
-            "value": "csapollo"
+            "value": "csiverson"
         },
         "oxaToolsGithubProjectName": {
             "value": "oxa-tools"
@@ -84,7 +84,7 @@
             "value": "oxa/master.fic"
         },
         "edxConfigurationGithubAccountName": {
-            "value": "csapollo"
+            "value": "csiverson"
         },
         "edxConfigurationGithubProjectName": {
             "value": "edx-configuration"
@@ -93,7 +93,7 @@
             "value": "oxa/master.fic"
         },
         "edxPlatformGithubAccountName": {
-            "value": "csapollo"
+            "value": "csiverson"
         },
         "edxPlatformGithubProjectName": {
             "value": "edx-platform"
@@ -102,7 +102,7 @@
             "value": "oxa/master.fic"
         },
         "edxThemeGithubAccountName": {
-            "value": "csapollo"
+            "value": "csiverson"
         },
         "edxThemeGithubProjectName": {
             "value": "edx-theme"
@@ -111,7 +111,7 @@
             "value": "oxa/master.fic"
         },
         "ansibleGithubAccountName": {
-            "value": "edx"
+            "value": "csiverson"
         },
         "ansibleGithubProjectName": {
             "value": "ansible"
@@ -242,7 +242,7 @@
             "value": true
         },
         "comprehensiveThemingDirectory": {
-            "value": "/edx/app/edxapp/edx-platform/themes"
+            "value": "/edx/app/edxapp/edx-platform/lms/templates"
         },
         "comprehensiveThemingName": {
             "value": "comprehensive"
