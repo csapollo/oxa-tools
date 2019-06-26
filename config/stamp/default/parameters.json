@@ -242,7 +242,7 @@
             "value": true
         },
         "comprehensiveThemingDirectory": {
-            "value": "/edx/app/edxapp/edx-platform/lms/templates"
+            "value": "/edx/app/edxapp/edx-platform/themes"
         },
         "comprehensiveThemingName": {
             "value": "comprehensive"
